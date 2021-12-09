@@ -16,7 +16,7 @@ All messages are encrypted and there's no privacy issue as no message are kept i
 
 ### Getting Started
 
-When you first launch the app, you are required to give a handle name to identify you (for eg. GoodUser1)
+When you first launch the app, you are required to give a handle name to identify yourself (for eg. GoodUser1).
 
 <img width="400" src="./handle.png" />
 
