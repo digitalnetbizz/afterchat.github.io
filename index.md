@@ -12,7 +12,7 @@ No login is needed because there's no servers. App connects to each other and wo
 
 Wifi mode is preferred as it requires no setup (just make sure devices are connected to the same Wifi network).
 
-All messages are encrypted and there's no privacy issue as no message are kept in the servers or app.
+All messages are encrypted and there's no privacy issue as no message are kept in the servers or the application.
 
 ### Getting Started
 
