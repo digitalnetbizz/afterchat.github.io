@@ -18,6 +18,10 @@ All messages are encrypted and there's no privacy issue as no message are kept i
 
 When you first launch the app, you are required to give a handle name to identify you (for eg. GoodUser1)
 
+<img width="400" src="./handle.png" />
+
+You cannot proceed to connect without entering a handle name. Once handle name is available, you can click either the Wifi mode button or Hotspot mode button. 
+
 ### Using Wifi mode to connect
 
 
