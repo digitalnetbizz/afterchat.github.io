@@ -22,7 +22,10 @@ When you first launch the app, you are required to give a handle name to identif
 
 You cannot proceed to connect without entering a handle name. Once handle name is available, you can click either the Wifi mode button or Hotspot mode button. 
 
-### Using Wifi mode to connect
+<img width="400" src="./modes.png" />
+
+Once you click into Wifi modes, it will take a few seconds to find other devices. If no devices found, your app will be run as server mode. Other clients will connect to your app to communication. Make sure all the devices are connected to the same Wifi network or Hotspot in order for this to run.
+
 
 
 ### Support or Contact
