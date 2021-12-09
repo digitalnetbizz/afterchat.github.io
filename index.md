@@ -26,7 +26,15 @@ You cannot proceed to connect without entering a handle name. Once handle name i
 
 Once you click into Wifi modes, it will take a few seconds to find other devices. If no devices found, your app will be run as server mode. Other clients will connect to your app to communication. Make sure all the devices are connected to the same Wifi network or Hotspot in order for this to run.
 
+When connection is completed, you will see a chat screen like this: 
 
+<img width="400" src="./chat.png" />
+
+If you are the 1st one, you will just have to wait for others to connect. Once other party join, you can chat with each other. To play mini-game (4 available), you click into top-left menu and you will see the following screen:
+
+<img width="400" src="./menu.png" />
+
+When a game is selected, all users will be inform that the game will start in 5 seconds. Users can opt out if they want by clicking cancel button.
 
 ### Support or Contact
 
