@@ -1,6 +1,6 @@
 ## Welcome to AfterChat Product Page
 
-AfterChat is a chat and mini-game app that work without the Internet. It helps connect people nearby who are connected to the same Wifi network or Device hotspot. This means whether you are in situation without Internet such as camping, in a flight, road trip, you can still chat and play a game together. 
+AfterChat is a chat and mini-game app that works without the Internet. It helps connect people nearby who are connected to the same Wifi network or Device hotspot. This means when you are in situation without Internet such as camping, in a flight, road trip, you can still chat and play a game together. 
 
 
 ### How it works
