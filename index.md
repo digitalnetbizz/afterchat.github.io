@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to AfterChat Product Page
 
-You can use the [editor on GitHub](https://github.com/digitalnetbizz/afterchat.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+AfterChat is a chat and mini-game app that work without the Internet. It helps connect people nearby who are connected to the same Wifi network or Device hotspot. This means whether you are in situation without Internet such as camping, in a flight, road trip, you can still chat and play a game together. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### How it works
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+No login is needed because there's no servers. App connects to each other and work together. There are 2 modes of connection.
 
-```markdown
-Syntax highlighted code block
+- Wifi mode (devices are connected to the same Wifi such as school, library or home)
+- Hotspot mode (devices are connected to the same device hotspot when Wifi network in not available)
 
-# Header 1
-## Header 2
-### Header 3
+Wifi mode is preferred as it requires no setup (just make sure devices are connected to the same Wifi network).
 
-- Bulleted
-- List
+All messages are encrypted and there's no privacy issue as no message are kept in the servers or app.
 
-1. Numbered
-2. List
+### Getting Started
 
-**Bold** and _Italic_ and `Code` text
+When you first launch the app, you are required to give a handle name to identify you (for eg. GoodUser1)
 
-[Link](url) and ![Image](src)
-```
+### Using Wifi mode to connect
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/digitalnetbizz/afterchat.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Please email to ghoststream.corp@gmail.com
